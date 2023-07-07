@@ -3,8 +3,6 @@
 ![ezgif com-gif-maker](https://github.com/Vrushabh-Pol/Machine_Learning_Projects/assets/126774806/a1e15498-857a-40cc-97cd-b93632d42dd8)
 
 
-Repository Description: Machine Learning Projects
-
 Welcome to our machine learning projects repository! This repository is a collection of exciting and diverse machine learning projects, showcasing the potential and applications of this rapidly evolving field.
 
 Whether you're a beginner looking to learn or an experienced practitioner searching for inspiration, you'll find a wealth of resources here. Our projects cover a wide range of topics, algorithms, and datasets, ensuring there's something for everyone. From classification and regression to natural language processing, computer vision, and deep learning, we explore various domains and techniques.
