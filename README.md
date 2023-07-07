@@ -11,3 +11,5 @@ Each project comes with comprehensive documentation, including code implementati
 By contributing to this repository, you can expand its knowledge base and help the machine learning community thrive. Whether it's submitting your own projects, providing improvements to existing ones, or sharing insights and ideas through discussions, your contributions are highly valued.
 
 So, come on board and embark on your machine learning journey with us. Let's learn, create, and push the boundaries of what's possible in the fascinating world of machine learning!
+
+![image](https://github.com/Vrushabh-Pol/Machine_Learning_Projects/assets/126774806/c5e73838-7137-4857-9da5-84fc5514bf8f)
