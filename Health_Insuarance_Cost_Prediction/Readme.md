@@ -13,6 +13,9 @@ We believe that by accurately predicting health insurance costs, we can empower 
 Join us in this endeavor to leverage machine learning for health insurance cost prediction. Let's work together to improve accessibility, affordability, and fairness in the realm of healthcare insurance!
 
 
+# In code I'm using 4 models like linear model, Support Vector Machine, Random Forest, and Graddient Boosting models.
+# In code Graddient Boosting Regression gives more accuracy thatswhy i will used Gradient Boosting in deployment of GUI.
+
 # I deploy this model in Tkinter Gui.
 
 <img width="330" alt="Screenshot 2023-07-07 at 3 54 46 PM" src="https://github.com/Vrushabh-Pol/Machine_Learning_Projects/assets/126774806/3b487dbf-aeb7-4ef1-b245-161a02c9d111">
