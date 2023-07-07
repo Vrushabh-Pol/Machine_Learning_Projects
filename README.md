@@ -1,5 +1,8 @@
 # Machine_Learning_Projects
 
+![ezgif com-gif-maker](https://github.com/Vrushabh-Pol/Machine_Learning_Projects/assets/126774806/a1e15498-857a-40cc-97cd-b93632d42dd8)
+
+
 Repository Description: Machine Learning Projects
 
 Welcome to our machine learning projects repository! This repository is a collection of exciting and diverse machine learning projects, showcasing the potential and applications of this rapidly evolving field.
@@ -12,5 +15,5 @@ By contributing to this repository, you can expand its knowledge base and help t
 
 So, come on board and embark on your machine learning journey with us. Let's learn, create, and push the boundaries of what's possible in the fascinating world of machine learning!
 
-![ezgif com-gif-maker](https://github.com/Vrushabh-Pol/Machine_Learning_Projects/assets/126774806/a1e15498-857a-40cc-97cd-b93632d42dd8)
+
 
