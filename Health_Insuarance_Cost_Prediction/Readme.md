@@ -11,3 +11,8 @@ In addition to the pre-built models, we encourage you to contribute your own imp
 We believe that by accurately predicting health insurance costs, we can empower individuals to make informed decisions about their coverage, assist insurance providers in designing better policies, and contribute to a more transparent and efficient healthcare system overall.
 
 Join us in this endeavor to leverage machine learning for health insurance cost prediction. Let's work together to improve accessibility, affordability, and fairness in the realm of healthcare insurance!
+
+
+# I deploy this model in Tkinter Gui.
+
+<img width="330" alt="Screenshot 2023-07-07 at 3 54 46 PM" src="https://github.com/Vrushabh-Pol/Machine_Learning_Projects/assets/126774806/3b487dbf-aeb7-4ef1-b245-161a02c9d111">
