@@ -1,7 +1,6 @@
-# Robust Automated Proctoring System for Online Examinations
+# Automated Exam Proctoring
 
-- This light weight application proctors examinee continuously throughout the exam using webcam and detects several methods of cheating with high accuracy and makes report of their cheating behaviour. 
-- It has modules like Face detection, Face recognition, Face landmarks detection, Head pose estimation, Eye gaze detection, Face spoof detection and Lips tracker.
+
 - This application uses less cpu and RAM because we used robust and light weight models like BlazeFace face detector, FaceNet for face recogntion.
 - Our application detects the following cheating methods:
   1. Another person giving exam
@@ -19,6 +18,7 @@ Our proctoring system has scored 96.22% accuracy on our test dataset.
   <img src="./assets/1.jpg" alt="1.jpg">
   <img src="./assets/2.jpg" alt="2.jpg">
 </p>
+
 
 
 ### Setup Instructions
